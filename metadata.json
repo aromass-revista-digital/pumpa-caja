@@ -1,0 +1,8 @@
+{
+  "name": "PUMPA CAJA",
+  "description": "Sistema de ventas y control de caja para pequeños comercios de Argentina. Vendé fácil. Controlá todo.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
